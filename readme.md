@@ -1,0 +1,3 @@
+## Data accompanying BL de Vries et al 2018: Laboratory mid-IR spectra of equilibrated and igneous meteorites
+The data is located in the data directory. The file PY_METEORITES_ABS_INFO.py can optionally be used to get a dictionary with all file names of all data. See the paper, also included in the repo, for more information.
+When using this data, please site our paper BL de Vries et al 2018 Laboratory mid-IR spectra of equilibrated and igneous meteorites.
